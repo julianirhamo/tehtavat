@@ -36,6 +36,8 @@ if pituus<37:
     elif sukupuoli== "Mies" and 134 <= arvo <195:
         print( "Hemoglobiini arvosi on normaali")
 
+
+
 #4 tehtava
 
     luku = int(input("Anna vuosiluku. "))
